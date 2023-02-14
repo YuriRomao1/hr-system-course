@@ -1,7 +1,6 @@
 package br.com.example.userapi.services;
 
 import br.com.example.userapi.domain.User;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 
